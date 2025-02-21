@@ -5,4 +5,6 @@ A Python script to store, view, add, and remove songs using a JSON file.
 - View saved songs  
 - Add new songs  
 - Remove songs by name or index  
-- Save and load data using JSON 
+- Save and load data using JSON
+
+Note: script made to try out JSON for the first time!
